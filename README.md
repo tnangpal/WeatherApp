@@ -20,7 +20,7 @@ A simple, responsive weather app built with HTML, CSS, &amp; JavaScript. Utilize
 1. Clone the repository to your local machine using the following command: `git clone [https://github.com/tnangpal/Weather_App.git]`
 2. Navigate to the project directory: `cd WeatherApp`
 3. Obtain an API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
-4. Open the `script.js` file and insert your API key in the `apiKey` variable.
+4. Open the `index.html` file and insert your API key in the `apiKey` variable.
 5. Open the `index.html` file in a web browser to launch the app.
 
 ## Usage
