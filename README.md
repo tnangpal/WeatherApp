@@ -26,6 +26,15 @@ A simple, responsive weather app built with HTML, CSS, &amp; JavaScript. Utilize
 ## Usage
 To use the app, simply enter the name of a city in the search bar and click the search button to retrieve the latest weather data for the specified location.
 
+<img width="544" alt="Screenshot 2023-09-11 at 1 25 57 PM" src="https://github.com/tnangpal/WeatherApp/assets/124189649/7f0832ac-aec6-483f-8c38-928fcef37d32">
+<img width="544" alt="Screenshot 2023-09-11 at 1 26 10 PM" src="https://github.com/tnangpal/WeatherApp/assets/124189649/691b281f-b0fa-41b8-a5bb-bc61164599f7">
+<img width="544" alt="Screenshot 2023-09-11 at 1 26 26 PM" src="https://github.com/tnangpal/WeatherApp/assets/124189649/20713903-424f-4ef0-9bf7-330b20aa192f">
+<img width="544" alt="Screenshot 2023-09-11 at 1 27 13 PM" src="https://github.com/tnangpal/WeatherApp/assets/124189649/0c0d5889-c9c4-40b9-9ee7-c18e5a528557">
+
+
+
+
+
 ## Acknowledgment  
 This project was created with the guidance of a JavaScript tutorial. A big thank you to [GreatStackDev](https://youtu.be/MIYQR-Ybrn4?si=RtjggwRMw7WSh1fi) for the comprehensive tutorial which made this project possible.
 
